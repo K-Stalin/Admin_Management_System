@@ -8,7 +8,7 @@ user datails,updating user information and deleting user records.
 
 ![image](https://github.com/user-attachments/assets/a864bd51-c734-45f2-a2d4-7fa75a926f23)
 
-Prerequisties
+#Prerequisties
 
 Before running the application make sure you have the following installed.
      - Node.js
