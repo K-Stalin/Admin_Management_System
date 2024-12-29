@@ -15,6 +15,7 @@ Before running the application, make sure you have the following installed:
 - Node.js
 - MongoDB
 - Postman
+- node_modules
 
 Features :
 
