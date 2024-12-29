@@ -10,7 +10,8 @@ user datails,updating user information and deleting user records.
 
 #Prerequisties
 
-Before running the application make sure you have the following installed.
-     - Node.js
-     - MongoDB
-     - Postman
+Before running the application, make sure you have the following installed:
+
+- Node.js
+- MongoDB
+- Postman
