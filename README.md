@@ -15,3 +15,10 @@ Before running the application, make sure you have the following installed:
 - Node.js
 - MongoDB
 - Postman
+
+Features :
+
+- Add new users to the system
+- View user details
+- Update user information
+- Delete user records
